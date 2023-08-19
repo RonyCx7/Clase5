@@ -41,6 +41,6 @@ public class ClsEjercicio6 {
         List<ClsEjercicio6> listaRH = new ArrayList<>();
         ClsEjercicio6 Empleado = new ClsEjercicio6();
 
-        listaRH.set
+
     }
 }
